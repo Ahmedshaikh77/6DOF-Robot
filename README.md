@@ -68,6 +68,9 @@ Replace the launch name above with any available launch files in `src/ArmBot_des
 - Add example MoveIt planning demos (pick-and-place, joint trajectory playback).
 - Add unit/integration tests or a GitHub Actions workflow to build the workspace automatically.
 
+
+## Images
+
 <img width="1728" height="851" alt="Screenshot 2025-10-16 at 11 55 21 PM" src="https://github.com/user-attachments/assets/e091ff94-32df-49cd-83d0-3c3a1b937b32" />
 
 <img width="1726" height="850" alt="Screenshot 2025-10-16 at 11 55 14 PM" src="https://github.com/user-attachments/assets/54727310-854c-4dad-8138-d8b91c8d1ba0" />
