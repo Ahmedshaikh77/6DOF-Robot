@@ -1,0 +1,2 @@
+[console_scripts]
+pick_and_place = ArmBot_moveit.scripts.pick_and_place:main

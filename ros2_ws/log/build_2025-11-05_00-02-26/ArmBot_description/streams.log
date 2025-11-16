@@ -1,0 +1,20 @@
+[0.624s] Invoking command in '/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/src/ArmBot_description/ArmBot_description': PYTHONPATH=/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ArmBot_description build --build-base /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build install --record /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/install.log --single-version-externally-managed install_data
+[0.832s] running egg_info
+[0.845s] writing ../../../build/ArmBot_description/ArmBot_description.egg-info/PKG-INFO
+[0.845s] writing dependency_links to ../../../build/ArmBot_description/ArmBot_description.egg-info/dependency_links.txt
+[0.846s] writing requirements to ../../../build/ArmBot_description/ArmBot_description.egg-info/requires.txt
+[0.846s] writing top-level names to ../../../build/ArmBot_description/ArmBot_description.egg-info/top_level.txt
+[0.874s] reading manifest file '../../../build/ArmBot_description/ArmBot_description.egg-info/SOURCES.txt'
+[0.874s] writing manifest file '../../../build/ArmBot_description/ArmBot_description.egg-info/SOURCES.txt'
+[0.875s] running build
+[0.875s] running build_py
+[0.876s] running install
+[0.881s] running install_lib
+[0.894s] running install_data
+[0.895s] copying package.xml -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description
+[0.895s] running install_egg_info
+[0.910s] removing '/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages/ArmBot_description-0.0.0-py3.12.egg-info' (and everything under it)
+[0.913s] Copying ../../../build/ArmBot_description/ArmBot_description.egg-info to /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages/ArmBot_description-0.0.0-py3.12.egg-info
+[0.913s] running install_scripts
+[1.014s] writing list of installed files to '/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/install.log'
+[1.037s] Invoked command in '/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/src/ArmBot_description/ArmBot_description' returned '0': PYTHONPATH=/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ArmBot_description build --build-base /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build install --record /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/install.log --single-version-externally-managed install_data

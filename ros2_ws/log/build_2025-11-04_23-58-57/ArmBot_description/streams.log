@@ -1,0 +1,47 @@
+[0.638s] Invoking command in '/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description': PYTHONPATH=/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build
+[0.877s] running develop
+[1.023s] Removing /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages/ArmBot-description.egg-link (link to .)
+[1.048s] Invoked command in '/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description' returned '0': PYTHONPATH=/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build
+[1.049s] Invoking command in '/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/src/ArmBot_description/ArmBot_description': PYTHONPATH=/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ArmBot_description build --build-base /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build install --record /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/install.log --single-version-externally-managed install_data --force
+[1.253s] running egg_info
+[1.266s] writing ../../../build/ArmBot_description/ArmBot_description.egg-info/PKG-INFO
+[1.267s] writing dependency_links to ../../../build/ArmBot_description/ArmBot_description.egg-info/dependency_links.txt
+[1.267s] writing requirements to ../../../build/ArmBot_description/ArmBot_description.egg-info/requires.txt
+[1.267s] writing top-level names to ../../../build/ArmBot_description/ArmBot_description.egg-info/top_level.txt
+[1.296s] reading manifest file '../../../build/ArmBot_description/ArmBot_description.egg-info/SOURCES.txt'
+[1.296s] writing manifest file '../../../build/ArmBot_description/ArmBot_description.egg-info/SOURCES.txt'
+[1.297s] running build
+[1.297s] running build_py
+[1.297s] creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build
+[1.298s] creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build/lib
+[1.298s] creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build/lib/ArmBot_description
+[1.298s] copying ArmBot_description/__init__.py -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build/lib/ArmBot_description
+[1.298s] running install
+[1.304s] running install_lib
+[1.316s] creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages/ArmBot_description
+[1.316s] copying /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build/lib/ArmBot_description/__init__.py -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages/ArmBot_description
+[1.316s] byte-compiling /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages/ArmBot_description/__init__.py to __init__.cpython-312.pyc
+[1.317s] running install_data
+[1.317s] copying resource/ArmBot_description -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ament_index/resource_index/packages
+[1.317s] copying package.xml -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description
+[1.317s] copying launch/display.launch.py -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/launch
+[1.317s] copying launch/gazebo.launch.py -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/launch
+[1.320s] copying urdf/ArmBot.gazebo -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/urdf
+[1.320s] copying urdf/ArmBot.ros2control -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/urdf
+[1.320s] copying urdf/ArmBot.xacro -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/urdf
+[1.321s] copying urdf/materials.xacro -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/urdf
+[1.321s] copying meshes/base_link.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+[1.321s] copying meshes/link_1_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+[1.321s] copying meshes/link_2_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+[1.323s] copying meshes/link_3_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+[1.323s] copying meshes/link_4_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+[1.323s] copying meshes/link_5_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+[1.323s] copying meshes/link_6_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+[1.323s] copying config/display.rviz -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/config
+[1.323s] copying config/gazebo.rviz -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/config
+[1.323s] copying config/ros_gz_bridge_gazebo.yaml -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/config
+[1.323s] running install_egg_info
+[1.337s] Copying ../../../build/ArmBot_description/ArmBot_description.egg-info to /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages/ArmBot_description-0.0.0-py3.12.egg-info
+[1.339s] running install_scripts
+[1.440s] writing list of installed files to '/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/install.log'
+[1.463s] Invoked command in '/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/src/ArmBot_description/ArmBot_description' returned '0': PYTHONPATH=/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ArmBot_description build --build-base /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build install --record /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/install.log --single-version-externally-managed install_data --force

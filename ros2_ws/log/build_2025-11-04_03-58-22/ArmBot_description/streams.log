@@ -1,0 +1,15 @@
+[0.729s] Invoking command in '/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description': PYTHONPATH=/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build --no-deps symlink_data
+[1.058s] running develop
+[1.242s] running egg_info
+[1.264s] writing ArmBot_description.egg-info/PKG-INFO
+[1.265s] writing dependency_links to ArmBot_description.egg-info/dependency_links.txt
+[1.265s] writing requirements to ArmBot_description.egg-info/requires.txt
+[1.265s] writing top-level names to ArmBot_description.egg-info/top_level.txt
+[1.296s] reading manifest file 'ArmBot_description.egg-info/SOURCES.txt'
+[1.297s] writing manifest file 'ArmBot_description.egg-info/SOURCES.txt'
+[1.313s] running build_ext
+[1.314s] Creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages/ArmBot-description.egg-link (link to .)
+[1.314s] 
+[1.314s] Installed /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description
+[1.314s] running symlink_data
+[1.344s] Invoked command in '/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description' returned '0': PYTHONPATH=/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build --no-deps symlink_data

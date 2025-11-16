@@ -1,0 +1,43 @@
+running develop
+Removing /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages/ArmBot-description.egg-link (link to .)
+running egg_info
+writing ../../../build/ArmBot_description/ArmBot_description.egg-info/PKG-INFO
+writing dependency_links to ../../../build/ArmBot_description/ArmBot_description.egg-info/dependency_links.txt
+writing requirements to ../../../build/ArmBot_description/ArmBot_description.egg-info/requires.txt
+writing top-level names to ../../../build/ArmBot_description/ArmBot_description.egg-info/top_level.txt
+reading manifest file '../../../build/ArmBot_description/ArmBot_description.egg-info/SOURCES.txt'
+writing manifest file '../../../build/ArmBot_description/ArmBot_description.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build
+creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build/lib
+creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build/lib/ArmBot_description
+copying ArmBot_description/__init__.py -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build/lib/ArmBot_description
+running install
+running install_lib
+creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages/ArmBot_description
+copying /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build/lib/ArmBot_description/__init__.py -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages/ArmBot_description
+byte-compiling /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages/ArmBot_description/__init__.py to __init__.cpython-312.pyc
+running install_data
+copying resource/ArmBot_description -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ament_index/resource_index/packages
+copying package.xml -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description
+copying launch/display.launch.py -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/launch
+copying launch/gazebo.launch.py -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/launch
+copying urdf/ArmBot.gazebo -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/urdf
+copying urdf/ArmBot.ros2control -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/urdf
+copying urdf/ArmBot.xacro -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/urdf
+copying urdf/materials.xacro -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/urdf
+copying meshes/base_link.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+copying meshes/link_1_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+copying meshes/link_2_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+copying meshes/link_3_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+copying meshes/link_4_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+copying meshes/link_5_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+copying meshes/link_6_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+copying config/display.rviz -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/config
+copying config/gazebo.rviz -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/config
+copying config/ros_gz_bridge_gazebo.yaml -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/config
+running install_egg_info
+Copying ../../../build/ArmBot_description/ArmBot_description.egg-info to /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages/ArmBot_description-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/install.log'

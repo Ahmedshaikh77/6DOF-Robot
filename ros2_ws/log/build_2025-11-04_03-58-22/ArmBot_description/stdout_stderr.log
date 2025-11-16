@@ -1,0 +1,13 @@
+running develop
+running egg_info
+writing ArmBot_description.egg-info/PKG-INFO
+writing dependency_links to ArmBot_description.egg-info/dependency_links.txt
+writing requirements to ArmBot_description.egg-info/requires.txt
+writing top-level names to ArmBot_description.egg-info/top_level.txt
+reading manifest file 'ArmBot_description.egg-info/SOURCES.txt'
+writing manifest file 'ArmBot_description.egg-info/SOURCES.txt'
+running build_ext
+Creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages/ArmBot-description.egg-link (link to .)
+
+Installed /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description
+running symlink_data

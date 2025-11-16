@@ -1,0 +1,9 @@
+source;share/ArmBot_moveit/hook/pythonpath.ps1
+source;share/ArmBot_moveit/hook/pythonpath.dsv
+source;share/ArmBot_moveit/hook/pythonpath.sh
+source;share/ArmBot_moveit/hook/ament_prefix_path.ps1
+source;share/ArmBot_moveit/hook/ament_prefix_path.dsv
+source;share/ArmBot_moveit/hook/ament_prefix_path.sh
+source;../../build/ArmBot_moveit/share/ArmBot_moveit/hook/pythonpath_develop.ps1
+source;../../build/ArmBot_moveit/share/ArmBot_moveit/hook/pythonpath_develop.dsv
+source;../../build/ArmBot_moveit/share/ArmBot_moveit/hook/pythonpath_develop.sh

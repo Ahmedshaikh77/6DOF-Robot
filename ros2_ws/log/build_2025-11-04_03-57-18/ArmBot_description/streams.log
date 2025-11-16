@@ -1,0 +1,42 @@
+[0.623s] Invoking command in '/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description': PYTHONPATH=/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build --no-deps symlink_data
+[0.878s] running develop
+[1.021s] running egg_info
+[1.021s] creating ArmBot_description.egg-info
+[1.035s] writing ArmBot_description.egg-info/PKG-INFO
+[1.036s] writing dependency_links to ArmBot_description.egg-info/dependency_links.txt
+[1.036s] writing requirements to ArmBot_description.egg-info/requires.txt
+[1.036s] writing top-level names to ArmBot_description.egg-info/top_level.txt
+[1.036s] writing manifest file 'ArmBot_description.egg-info/SOURCES.txt'
+[1.063s] reading manifest file 'ArmBot_description.egg-info/SOURCES.txt'
+[1.064s] writing manifest file 'ArmBot_description.egg-info/SOURCES.txt'
+[1.079s] running build_ext
+[1.079s] Creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages/ArmBot-description.egg-link (link to .)
+[1.079s] 
+[1.079s] Installed /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description
+[1.080s] running symlink_data
+[1.080s] creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ament_index
+[1.080s] creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ament_index/resource_index
+[1.080s] creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ament_index/resource_index/packages
+[1.080s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/resource/ArmBot_description -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ament_index/resource_index/packages
+[1.080s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/package.xml -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description
+[1.080s] creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/launch
+[1.080s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/launch/display.launch.py -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/launch
+[1.080s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/launch/gazebo.launch.py -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/launch
+[1.080s] creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/urdf
+[1.080s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/urdf/ArmBot.gazebo -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/urdf
+[1.080s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/urdf/ArmBot.ros2control -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/urdf
+[1.080s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/urdf/ArmBot.xacro -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/urdf
+[1.082s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/urdf/materials.xacro -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/urdf
+[1.082s] creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+[1.082s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/meshes/base_link.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+[1.082s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/meshes/link_1_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+[1.082s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/meshes/link_2_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+[1.082s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/meshes/link_3_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+[1.082s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/meshes/link_4_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+[1.083s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/meshes/link_5_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+[1.083s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/meshes/link_6_1.stl -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/meshes
+[1.083s] creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/config
+[1.083s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/config/display.rviz -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/config
+[1.083s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/config/gazebo.rviz -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/config
+[1.083s] symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/config/ros_gz_bridge_gazebo.yaml -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/share/ArmBot_description/config
+[1.105s] Invoked command in '/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description' returned '0': PYTHONPATH=/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_description/build --no-deps symlink_data

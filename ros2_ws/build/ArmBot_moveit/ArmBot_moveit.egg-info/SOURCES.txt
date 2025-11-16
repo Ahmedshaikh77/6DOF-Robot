@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+ArmBot_moveit/__init__.py
+ArmBot_moveit.egg-info/PKG-INFO
+ArmBot_moveit.egg-info/SOURCES.txt
+ArmBot_moveit.egg-info/dependency_links.txt
+ArmBot_moveit.egg-info/entry_points.txt
+ArmBot_moveit.egg-info/requires.txt
+ArmBot_moveit.egg-info/top_level.txt
+ArmBot_moveit.egg-info/zip-safe
+resource/ArmBot_moveit

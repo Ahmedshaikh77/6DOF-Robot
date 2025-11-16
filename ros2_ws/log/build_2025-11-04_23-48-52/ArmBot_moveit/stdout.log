@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating ArmBot_moveit.egg-info
+writing ArmBot_moveit.egg-info/PKG-INFO
+writing dependency_links to ArmBot_moveit.egg-info/dependency_links.txt
+writing entry points to ArmBot_moveit.egg-info/entry_points.txt
+writing requirements to ArmBot_moveit.egg-info/requires.txt
+writing top-level names to ArmBot_moveit.egg-info/top_level.txt
+writing manifest file 'ArmBot_moveit.egg-info/SOURCES.txt'
+reading manifest file 'ArmBot_moveit.egg-info/SOURCES.txt'
+writing manifest file 'ArmBot_moveit.egg-info/SOURCES.txt'
+running build_ext
+Creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_moveit/lib/python3.12/site-packages/ArmBot-moveit.egg-link (link to .)
+Installing pick_and_place script to /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_moveit/lib/ArmBot_moveit
+
+Installed /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_moveit
+running symlink_data
+creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_moveit/share/ament_index
+creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_moveit/share/ament_index/resource_index
+creating /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_moveit/share/ament_index/resource_index/packages
+symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_moveit/resource/ArmBot_moveit -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_moveit/share/ament_index/resource_index/packages
+symbolically linking /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/build/ArmBot_moveit/package.xml -> /root/workspaces/ms1242_robotics_fall2025/challenge_hw1/ros2_ws/install/ArmBot_moveit/share/ArmBot_moveit
