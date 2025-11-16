@@ -12,10 +12,13 @@ A compact, easy-to-debug 6‑degree-of-freedom manipulator designed for ROS 2 w
 - `src/ArmBot_moveit/` — MoveIt configuration and planners
 - `install/`, `build/`, `log/` — colcon build artifacts (generated)
 
+- **Primary language:** Python — this repository uses only Python for XACRO processing, ROS 2 launch files and helper scripts.
+
 ## Prerequisites
 - Ubuntu or macOS with ROS 2 (matching the workspace) installed and sourced.
 - `colcon` for building the workspace.
-
+ - `colcon` for building the workspace.
+ - `Python 3` (used by XACRO processing, ROS 2 launch files and helper scripts). Recommend using the Python version compatible with your ROS 2 distribution (e.g., 3.8+).
 On macOS / zsh, you can source the workspace with:
 
 ```
