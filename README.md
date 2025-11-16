@@ -68,11 +68,11 @@ Replace the launch name above with any available launch files in `src/ArmBot_des
 - Add example MoveIt planning demos (pick-and-place, joint trajectory playback).
 - Add unit/integration tests or a GitHub Actions workflow to build the workspace automatically.
 
-<img width="1728" height="851" alt="Screenshot 2025-10-16 at 11 55 21 PM" src="https://github.<img width="1<img width="1722" height="933" alt="Screenshot 2025-10-16 at 11 42 42 PM" src="https://github.com/user-attachments/assets/071f7891-cc4a-46fc-94cd-d231918d4055" />
-726" height="850" alt="Screenshot 2025-10-16 at 11 55 14 PM" src="https://github.com/user-attachments/assets/14b63645-0711-43b7-a61d-97c08c3fc201" /><img width="1722" height="937" alt="Screenshot 2025-10-16 at 11 11 33 PM" src="https://github.com/user-attachments/assets/96a10c27-dfcb-45b9-b3a7-5e559ca750cc" />
+<img width="1728" height="851" alt="Screenshot 2025-10-16 at 11 55 21 PM" src="https://github.com/user-attachments/assets/e091ff94-32df-49cd-83d0-3c3a1b937b32" />
 
-com/user-attachments/assets/3959843a-9f86-4537-baa4-2169a8a21bb4" />
+<img width="1726" height="850" alt="Screenshot 2025-10-16 at 11 55 14 PM" src="https://github.com/user-attachments/assets/54727310-854c-4dad-8138-d8b91c8d1ba0" />
 
+<img width="1722" height="937" alt="Screenshot 2025-10-16 at 11 11 33 PM" src="https://github.com/user-attachments/assets/3be5ba36-e8de-41fb-8174-fb4ab05ee355" />
 
-
+<img width="1722" height="933" alt="Screenshot 2025-10-16 at 11 42 42 PM" src="https://github.com/user-attachments/assets/d7e6fde5-8aca-46e6-8d68-d234e78e008d" />
 
