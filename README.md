@@ -1,4 +1,4 @@
-# ArmBot — 6‑DOF ROS 2 Manipulator
+# ArmBot - 6‑DOF ROS 2 Manipulator
 
 A compact, easy-to-debug 6‑degree-of-freedom manipulator designed for ROS 2 workflows and MoveIt integration. The model is implemented in XACRO so common parameters (link lengths, diameters, base size) can be changed in one place and propagate through the URDF.
 
